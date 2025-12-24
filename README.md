@@ -13,7 +13,6 @@ Half Wave Rectifier
 Mains power supply is applied at the primary of the step-down transformer. All the positive half cycles of the stepped down ac supply pass through the diode and all the negative half cycles get eliminated. Peak value of the output voltage is less than the peak value of the input voltage by 0.6V because of the voltage drop across the diode.
 For a half wave rectifier, Vrms = Vm/2 and Vdc = Vm/π: where Vrms = rms value of input, Vdc = Average value of input and Vm = peak value of output.
 
-
 Full Wave Rectifier
 During the positive half cycle of the transformer secondary voltage, diode     is forward biased and      is reverse biased. So a current flows through the diode     , load resistor      and upper half of the transformer  winding.  During  the  negative  half  cycle,  diode       becomes  forward  biased  and becomes reverse biased. The current then flows through the diode     , load resistor      and lower half of the transformer winding. Current flows through the load resistor in the same direction during both the half cycles. Peak value of the output voltage is less than the peak value of the input voltage by 0.6V
 because of the voltage drop across the diode.
@@ -38,23 +37,16 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 <img width="1113" height="850" alt="Screenshot 2025-12-15 113100" src="https://github.com/user-attachments/assets/2735176a-8365-4d2e-b9e4-d04d46758abe" />
-
-
 Bridge rectifier with filter:
 <img width="1075" height="749" alt="Screenshot 2025-12-15 114123" src="https://github.com/user-attachments/assets/3a962864-8b28-4b1f-b18d-b1d16ed816d2" />
 
 TABULAR COLUMN:
-
 Half wave
 ![WhatsApp Image 2025-12-15 at 11 46 42 AM](https://github.com/user-attachments/assets/c015167b-6faf-499f-b079-b9c67d429e48)
-
 Full wave
 ![WhatsApp Image 2025-12-15 at 11 46 38 AM](https://github.com/user-attachments/assets/96dbc0bb-0e29-4a27-bf8b-5fbf3987e16f)
 
 WAVEFORM:
-
-Half wave and Full wave:
-
 <img width="1253" height="556" alt="Screenshot 2025-12-15 113036" src="https://github.com/user-attachments/assets/73c85182-d5fa-4317-a349-1e331a2e9d7e" />
 
 <img width="1195" height="607" alt="Screenshot 2025-12-15 114109" src="https://github.com/user-attachments/assets/b1fce52a-a745-4f6a-8b53-869e4a426264" />
